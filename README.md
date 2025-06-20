@@ -13,7 +13,7 @@ This game? It’s kind of my way of processing all that. It’s weird. It’s fu
 
 ---
 
-## What’s This Game About? ▶• ılıılıılılııılıılı. 0
+## What’s This Game About? ▶• ılıılıılılııılıılı. 
 
 - A little puzzle-adventure about coding, confusion, and caffeine.
 - Python-themed rooms with actual programming logic challenges.
