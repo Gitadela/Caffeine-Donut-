@@ -45,7 +45,7 @@ pip install pygame
 ### Run it
 
 ```bash
-python start.py
+python game.py
 ```
 
 ---
